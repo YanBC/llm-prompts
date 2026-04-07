@@ -34,7 +34,7 @@ Welcome to my prompt library! This repository contains all the high-quality AI p
 
 ## 📝 文本 (Text)
 
-*(暂无内容 / Coming Soon)*
+- [AI chatbot 信息提取](./text/user_profile.md)
 
 ## 🎬 视频 (Video)
 
